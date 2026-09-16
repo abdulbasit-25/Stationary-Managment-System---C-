@@ -66,7 +66,7 @@ For any questions or suggestions, please feel free to contact me:
 
 - **Name:** Abdul Basit  
 - **Email:** [Your Email Address]  
-- **GitHub:** [Your GitHub Profile URL]
+- **Portfolio:** [Your GitHub Profile URL]
 
 ---
 
