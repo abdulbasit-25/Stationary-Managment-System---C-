@@ -65,8 +65,8 @@ This project is licensed under the [MIT License](LICENSE).
 For any questions or suggestions, please feel free to contact me:
 
 - **Name:** Abdul Basit  
-- **Email:** [Your Email Address]  
-- **Portfolio:** [Your GitHub Profile URL]
+- **Email:** [abdulbasit.alpha25@gmail.com]  
+- **Portfolio:** [https://abdulbasit-archer.vercel.app/]
 
 ---
 
